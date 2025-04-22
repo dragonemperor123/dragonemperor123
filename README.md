@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science from @iNeuron
 - 💞️ I’m looking to collaborate on any projects related to data science
-- 📫 How to reach me 
+- 📫 How to reach me adwait191@gmail.com
 
 <!---
 dragonemperor123/dragonemperor123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
